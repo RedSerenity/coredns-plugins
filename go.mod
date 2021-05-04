@@ -6,6 +6,7 @@ require (
 	github.com/coredns/caddy v1.1.0
 	github.com/coredns/coredns v1.8.3
 	github.com/gomodule/redigo v1.8.4
+	github.com/imkira/go-ttlmap v2.0.0+incompatible
 	github.com/jinzhu/gorm v1.9.16
 	github.com/mediocregopher/radix/v3 v3.7.0
 	github.com/miekg/dns v1.1.41
