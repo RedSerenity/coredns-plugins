@@ -9,9 +9,9 @@ The plugins were taken from:
 
 and updated because they were not working with the latest CoreDNS (v.1.8.3)
 
-[PDSQL Readme](pdsql/README.md)
+[PDSQL Readme](coredns/plugin/pdsql/README.md)
 
-[REDIS Readme](redis/README.md)
+[REDIS Readme](coredns/plugin/redis/README.md)
 
-[REDISC Readme](redis_cache/README.md)
+[REDISC Readme](coredns/plugin/redis_cache/README.md)
 

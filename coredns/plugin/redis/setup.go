@@ -30,7 +30,7 @@ func setup(c *caddy.Controller) error {
 }
 
 func redisParse(c *caddy.Controller) (*Redis, error) {
-	redis := Redis {
+	redis := Redis{
 		keyPrefix:"",
 		keySuffix:"",
 		Ttl:300,
